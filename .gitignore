@@ -1,0 +1,11 @@
+#android studio
+gradle/
+.gradle/
+.idea/
+build.gradle
+HideScreen.iml
+gradlew.bat
+gradlew
+gradle.properties
+local.properties
+settings.gradle
